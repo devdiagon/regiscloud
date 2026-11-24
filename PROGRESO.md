@@ -4,7 +4,7 @@ Se configuró IAM en la consola y se guardaron las credenciales en el equipo loc
 
 ---
 
-## Fase 1: En curso
+## Fase 1: Completada
 
 Creación de repositorio y archivos de documentación. Se aclara que se utilizará el manejador de paquetes PNPM, lo que obligó a especificar un pnpm-workspace.
 
@@ -18,3 +18,8 @@ Especificación de nombre de app como `regiscloud`, con eso la convención SSM p
 ```
 
 se usará --stage dev
+
+---
+
+## Fase 2: En curso
+

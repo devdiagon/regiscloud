@@ -2,3 +2,4 @@ packages:
   - "packages/*"
   - "services/*"
   - "web"
+nodeLinker: hoisted

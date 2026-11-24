@@ -1,0 +1,27 @@
+{
+  "name": "infra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "onFail": "download",
+      "version": "12.23.0"
+    }
+  },
+  "packageManager": "pnpm@12.23.0",
+  "type": "module",
+  "dependencies": {
+    "sst": "4.17.2"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.164"
+  }
+}
